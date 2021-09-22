@@ -32,6 +32,7 @@ namespace Pipe_Client
             this.startButton = new System.Windows.Forms.Button();
             this.stageText = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // startButton
@@ -51,9 +52,8 @@ namespace Pipe_Client
             this.stageText.Font = new System.Drawing.Font("宋体", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.stageText.Location = new System.Drawing.Point(303, 120);
             this.stageText.Name = "stageText";
-            this.stageText.Size = new System.Drawing.Size(194, 80);
+            this.stageText.Size = new System.Drawing.Size(0, 80);
             this.stageText.TabIndex = 2;
-            this.stageText.Text = "null";
             // 
             // label1
             // 
@@ -65,11 +65,20 @@ namespace Pipe_Client
             this.label1.TabIndex = 4;
             this.label1.Text = "客户端";
             // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("宋体", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBox1.Location = new System.Drawing.Point(229, 168);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(342, 53);
+            this.textBox1.TabIndex = 5;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.startButton);
             this.Controls.Add(this.stageText);
@@ -85,6 +94,7 @@ namespace Pipe_Client
         private System.Windows.Forms.Button startButton;
         private System.Windows.Forms.Label stageText;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
