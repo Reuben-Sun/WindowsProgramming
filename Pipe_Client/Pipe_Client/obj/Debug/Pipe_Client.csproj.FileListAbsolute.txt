@@ -1,0 +1,10 @@
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\bin\Debug\Pipe_Client.exe.config
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\bin\Debug\Pipe_Client.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\bin\Debug\Pipe_Client.pdb
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.Form1.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.Properties.Resources.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\Pipe_Client\Pipe_Client\obj\Debug\Pipe_Client.pdb
