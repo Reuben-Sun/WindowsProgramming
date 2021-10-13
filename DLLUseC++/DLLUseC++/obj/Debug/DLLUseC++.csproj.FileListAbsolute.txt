@@ -1,0 +1,10 @@
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\bin\Debug\DLLUseC++.exe.config
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\bin\Debug\DLLUseC++.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\bin\Debug\DLLUseC++.pdb
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC++.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC__.Form1.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC__.Properties.Resources.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC++.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC++.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC++.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\DLLUseC++\DLLUseC++\obj\Debug\DLLUseC++.pdb

@@ -1,0 +1,6 @@
+LIBRARY "CreateDLL"
+
+EXPORTS
+
+factorial @ 1
+sub @ 2
