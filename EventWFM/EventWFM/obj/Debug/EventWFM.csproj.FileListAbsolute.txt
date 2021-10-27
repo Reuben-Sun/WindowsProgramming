@@ -1,0 +1,11 @@
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\bin\Debug\EventWFM.exe.config
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\bin\Debug\EventWFM.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\bin\Debug\EventWFM.pdb
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.Form1.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.Form2.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.Properties.Resources.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\EventWFM\EventWFM\obj\Debug\EventWFM.pdb

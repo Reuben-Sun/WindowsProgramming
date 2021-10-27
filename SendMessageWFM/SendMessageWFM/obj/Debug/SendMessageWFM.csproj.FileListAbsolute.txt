@@ -1,0 +1,10 @@
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\bin\Debug\SendMessageWFM.exe.config
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\bin\Debug\SendMessageWFM.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\bin\Debug\SendMessageWFM.pdb
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.Form1.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.Properties.Resources.resources
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.exe
+D:\code\vs\CouseWork.net\WindowsProgramming\SendMessageWFM\SendMessageWFM\obj\Debug\SendMessageWFM.pdb

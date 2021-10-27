@@ -1,0 +1,16 @@
+﻿<Window x:Class="SendMessageWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SendMessageWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="发送
+                " HorizontalAlignment="Left" Height="67" Margin="531,150,0,0" VerticalAlignment="Top" Width="95" Click="Button_Click" Background="#FFA87878"/>
+        <TextBox x:Name="contentText" HorizontalAlignment="Left" Height="57" Margin="106,160,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="277"/>
+
+
+    </Grid>
+</Window>
